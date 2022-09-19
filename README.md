@@ -71,3 +71,8 @@ I made a jira workspace for organizing TODO tasks. Any collaborator can assign a
 
  We'll edit this doc as we progress. Have fun everyone! 
 
+=======
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Server endpoint '/'](https://github.com/yjalil/lewagon-983-collab/blob/main/screenshots/server.png)
+![Interface main page](https://github.com/yjalil/lewagon-983-collab/blob/main/screenshots/client.png)
+
