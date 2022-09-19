@@ -46,5 +46,6 @@ front
 open index.html in your browser
 
 If everything goes well you will be able to see these two pages on your browsers : 
-![Server endpoint '/']('/screenshots/server.png?')
-![Interface main page]('/screenshots/client.png')
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Server endpoint '/'](https://github.com/yjalil/lewagon-983-collab/blob/main/screenshots/server.png)
+![Interface main page](https://github.com/yjalil/lewagon-983-collab/blob/main/screenshots/client.png)
