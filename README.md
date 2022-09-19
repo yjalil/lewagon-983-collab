@@ -46,8 +46,8 @@ front
 open index.html in your browser
 
 If everything goes well you will be able to see these two pages on your browsers : 
-![Server endpoint '/']('/screenshots/server.png?')
-![Interface main page]('/screenshots/client.png')
+![Server endpoint '/'](/screenshots/server.png)
+![Interface main page](/screenshots/client.png)
 
 ### Git commands 
 
@@ -67,12 +67,9 @@ This is the basic workflow to contribute code, same we use in challenges :
 
 ### Jira
 I made a jira workspace for organizing TODO tasks. Any collaborator can assign a task to himself and work on it so that two people don't end up wasting time working on the same thing. You can create an [Atlassian account](https://www.atlassian.com/) and download Jira on your phone. You can create a task, report a bug, assign it, change its status to 'in progress' as you work on it, then 'finished' after you push it to git. The idea is to have a meeting, brainstorm, create small tasks like 'write function scrape_marjane_price()' and organise ourselves to get all the tasks done. The interface looks like this :
-![Jira interface]('/screenshots/jira.jpg')
+![Jira interface](/screenshots/jira.jpg)
 
  We'll edit this doc as we progress. Have fun everyone! 
 
-=======
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![Server endpoint '/'](https://github.com/yjalil/lewagon-983-collab/blob/main/screenshots/server.png)
-![Interface main page](https://github.com/yjalil/lewagon-983-collab/blob/main/screenshots/client.png)
+
 
