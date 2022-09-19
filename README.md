@@ -1,5 +1,5 @@
 # lewagon-983-collab
-The goal of this repo is to get used to a team workflow in preparation for the projects week. 
+The goal of this repo is to get used to a team workflow in preparation for the projects week. If you are interested send me your git username so i can invite you as a collaorator.
 
 ## Target skills
 * [Github fundamentals](https://youtu.be/HVsySz-h9r4)
@@ -40,8 +40,11 @@ All set
 
 ### Running the app
 back :
-`cd server`
+`cd server` then
 `uvicorn main:app`
 front
 open index.html in your browser
 
+If everything goes well you will be able to see these two pages on your browsers : 
+![Server endpoint '/']('/screenshots/server.png?')
+![Interface main page]('/screenshots/client.png')
